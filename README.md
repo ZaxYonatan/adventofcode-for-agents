@@ -29,13 +29,13 @@ Throughout this challenge, you will:
 ### Stages
 
 **What Is a Stage?**
-Each Advent of Code day has two parts. For this challenge, each part is a stage:
+Each Advent of Code day has two parts. For this challenge, each day is a stage:
 
-**Stage 1 (Practice)**:
+**Part 1 (Practice)**:
 Use this stage to explore different prompting methods and experiment freely.
 
-**Stage 2 ("One Shot")**:
-This is your focused attempt. Apply what you learned in Stage 1 and aim for your cleanest, most precise solution.
+**Part 2 ("One Shot")**:
+This is your focused attempt. Apply what you learned in Part 1 and aim for your cleanest, most precise solution.
 
 ---
 
