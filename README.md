@@ -1,4 +1,4 @@
-# 🎄 Advent of Code — Agent Edition 🎄
+# 🎄 Advent of Code — Agents Edition 🎄
 
 ### What is [Advent of Code](https://adventofcode.com/)?
 *"Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like."*
@@ -11,15 +11,6 @@ This document describes a custom variation designed for exploring and improving 
 
 ## What to Expect?
 
-### Skill Development
-Throughout this challenge, you will:
-- Strengthen your ability to collaborate with AI agents
-- Experiment with multiple prompting strategies
-- Aim for short prompt iterations
-- Target reliable and consistent results from your agents
-
----
-
 ### Stages
 
 **What Is a Stage?**
@@ -31,6 +22,18 @@ Use this stage to explore different prompting methods and experiment freely
 **Part 2 ("One Shot")**:
 This is your focused attempt. Apply what you learned in Part 1 and aim for your cleanest, most precise solution
 
+
+### Skill Development
+Throughout this challenge, you will:
+- Strengthen your ability to collaborate with AI agents
+- Experiment with multiple prompting strategies
+- Aim for short prompt iterations
+- Target reliable and consistent results from your agents
+
+
 ---
+
+
+
 
 ## Good luck and have fun!
