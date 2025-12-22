@@ -20,12 +20,6 @@ Throughout this challenge, you will:
 
 ---
 
-### Setup
-1. `git clone git@github.com:ZaxYonatan/adventofcode-for-agents.git`
-2. Choose your nickname:  **`___`**
-
----
-
 ### Stages
 
 **What Is a Stage?**
