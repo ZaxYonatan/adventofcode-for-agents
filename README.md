@@ -1,6 +1,6 @@
-# 🎄 Advent of Code — Agent Edition 🎄
+# 🎄 Advent of Code — Agents Edition 🎄
 
-### What is Advent of Code?
+### What is [Advent of Code](https://adventofcode.com/)?
 *"Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like."*
 
 For this year's edition, there are 12 days, 24 puzzles in total.
@@ -11,6 +11,18 @@ This document describes a custom variation designed for exploring and improving 
 
 ## What to Expect?
 
+### Stages
+
+**What Is a Stage?**
+Each Advent of Code day has two parts. For this challenge, each day is a stage
+
+**Part 1 (Practice)**:
+Use this stage to explore different prompting methods and experiment freely
+
+**Part 2 ("One Shot")**:
+This is your focused attempt. Apply what you learned in Part 1 and aim for your cleanest, most precise solution
+
+
 ### Skill Development
 Throughout this challenge, you will:
 - Strengthen your ability to collaborate with AI agents
@@ -18,25 +30,10 @@ Throughout this challenge, you will:
 - Aim for short prompt iterations
 - Target reliable and consistent results from your agents
 
----
-
-### Setup
-1. `git clone git@github.com:ZaxYonatan/adventofcode-for-agents.git`
-2. Choose your nickname:  **`___`**
 
 ---
 
-### Stages
 
-**What Is a Stage?**
-Each Advent of Code day has two parts. For this challenge, each part is a stage:
 
-**Stage 1 (Practice)**:
-Use this stage to explore different prompting methods and experiment freely.
-
-**Stage 2 ("One Shot")**:
-This is your focused attempt. Apply what you learned in Stage 1 and aim for your cleanest, most precise solution.
-
----
 
 ## Good luck and have fun!
