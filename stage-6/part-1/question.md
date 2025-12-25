@@ -21,10 +21,6 @@ Each problem's numbers are arranged vertically; at the bottom of the problem is 
 So, this worksheet contains four problems:
 
 123 * 45 * 6 = 33210
-328 + 64 + 98 = 490
-51 * 387 * 215 = 4243455
-64 + 23 + 314 = 401
-To check their work, cephalopod students are given the grand total of adding together all of the answers to the individual problems. In this worksheet, the grand total is 33210 + 490 + 4243455 + 401 = 4277556.
 
 Of course, the actual worksheet is much wider. You'll need to make sure to unroll it completely so that you can read the problems clearly.
 
