@@ -1,0 +1,18 @@
+# Git Commit Configuration
+
+When making git commits, agents must use the following identity:
+
+- **Name**: "PuzzleSolverAgent"
+- **Email**: "puzzle-solver-agent@aoc.com"
+
+Configure git before committing:
+```bash
+git config user.name "PuzzleSolverAgent"
+git config user.email "puzzle-solver-agent@aoc.com"
+```
+
+Or use the `--author` flag in commit commands:
+```bash
+git commit --author="PuzzleSolverAgent <puzzle-solver-agent@aoc.com>" -m "commit message"
+```
+
