@@ -1,0 +1,23 @@
+# Git Commit Configuration
+
+When making git commits, agents must use the following identity for both author and committer:
+
+- **Name**: "PuzzleSolverAgent"
+- **Email**: "puzzle-solver-agent@aoc.com"
+
+Configure git before committing to set both author and committer:
+```bash
+git config user.name "PuzzleSolverAgent"
+git config user.email "puzzle-solver-agent@aoc.com"
+```
+
+Or use the `--author` flag in commit commands (this sets the author, but committer will use git config):
+```bash
+git commit --author="PuzzleSolverAgent <puzzle-solver-agent@aoc.com>" -m "commit message"
+```
+
+To ensure both author and committer match, configure git config as shown above before making commits. If you need to amend existing commits to update the committer, use:
+```bash
+git commit --amend --reset-author --no-edit
+```
+
