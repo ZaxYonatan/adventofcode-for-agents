@@ -33,7 +33,8 @@ Throughout this challenge, you will:
 
 ---
 
-
+Enter the following to get started:
+https://my-site-5c183cua-yonatanzax.wix-vibe.com/
 
 
 ## Good luck and have fun!
